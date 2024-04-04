@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ecc571da-1d27-4b43-8b21-5c14c4224fcb"
+      }
+    },
+    "owner": "nathanrz12"
   }
 }
